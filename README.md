@@ -41,6 +41,5 @@ This repository showcases how to understand and visualize datasets using Python 
 
 ---
 
-## 📁 File Structure
 
 
